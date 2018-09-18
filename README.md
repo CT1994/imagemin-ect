@@ -1,4 +1,4 @@
-# imagemin-pingo
+# imagemin-ect
 
 > Efficient-Compression-Tool image-min plugin<br/>
 > [Efficient-Compression-Tool by fhanau](https://github.com/fhanau/Efficient-Compression-Tool)<br/>
@@ -23,7 +23,7 @@ imagemin(['images/*.png'], 'build/images', {use: [imageminEct()]}).then(() => {
 
 ## API
 
-### imageminPingo([options])(buffer)
+### imageminEct([options])(buffer)
 
 Returns a promise for a buffer.
 
