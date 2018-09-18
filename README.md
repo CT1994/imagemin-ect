@@ -58,7 +58,7 @@ Default: `false`
 Type: `boolean`
 Default: `false`
 
-> Use several threads to compress png files
+> Use several threads to compress png files<br/>
 > May decrease compression ratio
 
 #### buffer
@@ -70,4 +70,4 @@ Buffer to optimize.
 ## License
 
 MIT � [imagemin](https://github.com/imagemin)<br/>
-Apache License 2.0 � [Efficient-Compression-Tool](https://css-ig.net/pingo)
+Apache License 2.0 � [Efficient-Compression-Tool](https://github.com/fhanau/Efficient-Compression-Tool)
