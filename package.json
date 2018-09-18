@@ -1,0 +1,29 @@
+{
+  "name": "imagemin-ect",
+  "version": "1.0.0",
+  "description": "Efficient-Compression-Tool wrapper for imagemin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CT1994/imagemin-ect.git"
+  },
+  "keywords": [
+    "Efficient-Compression-Tool",
+    "compression",
+    "imagemin"
+  ],
+  "author": "Constantinos Tsiakouris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CT1994/imagemin-ect/issues"
+  },
+  "homepage": "https://github.com/CT1994/imagemin-ect#readme",
+  "dependencies": {
+    "ect-bin": "^1.0.1",
+    "exec-buffer": "^3.2.0",
+    "tempy": "^0.2.1"
+  }
+}
