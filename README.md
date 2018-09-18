@@ -1,8 +1,7 @@
 # imagemin-pingo
 
 > Efficient-Compression-Tool image-min plugin<br/>
-> [Efficient-Compression-Tool by fhanau](https://github.com/fhanau/Efficient-Compression-Tool)<br/>
-> currently only supports Windows & Linux
+> [Efficient-Compression-Tool by fhanau](https://github.com/fhanau/Efficient-Compression-Tool)
 
 ## Install
 
