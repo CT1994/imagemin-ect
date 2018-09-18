@@ -1,7 +1,7 @@
 # imagemin-pingo
 
-> Efficient-Compression-Tool image-min plugin
-> [Efficient-Compression-Tool by fhanau](https://github.com/fhanau/Efficient-Compression-Tool)
+> Efficient-Compression-Tool image-min plugin<br/>
+> [Efficient-Compression-Tool by fhanau](https://github.com/fhanau/Efficient-Compression-Tool)<br/>
 > currently only supports Windows & Linux
 
 ## Install
@@ -70,5 +70,5 @@ Buffer to optimize.
 
 ## License
 
-MIT � [imagemin](https://github.com/imagemin)
+MIT � [imagemin](https://github.com/imagemin)<br/>
 Apache License 2.0 � [Efficient-Compression-Tool](https://css-ig.net/pingo)
