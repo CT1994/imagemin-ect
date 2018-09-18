@@ -6,7 +6,7 @@
 ## Install
 
 ```
-$ npm install --save imagemin-ect
+$ npm install -save imagemin-ect
 ```
 
 ## Usage
