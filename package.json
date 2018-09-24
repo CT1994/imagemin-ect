@@ -1,6 +1,6 @@
 {
   "name": "imagemin-ect",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Efficient-Compression-Tool wrapper for imagemin",
   "main": "index.js",
   "scripts": {
