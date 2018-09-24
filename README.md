@@ -1,6 +1,6 @@
 # imagemin-ect
 
-> Efficient-Compression-Tool image-min plugin<br/>
+> Efficient-Compression-Tool <b>[imagemin](https://github.com/imagemin/imagemin)</b> plugin<br/>
 > [Efficient-Compression-Tool by fhanau](https://github.com/fhanau/Efficient-Compression-Tool)
 
 ## Install
@@ -25,6 +25,12 @@ imagemin(['images/*.png'], 'build/images', {use: [imageminEct()]}).then(() => {
 ### imageminEct([options])(buffer)
 
 Returns a promise for a buffer.
+
+#### buffer
+
+Type: `Buffer`
+
+Buffer to optimize.
 
 #### options
 
@@ -61,13 +67,7 @@ Default: `false`
 > Use several threads to compress png files<br/>
 > May decrease compression ratio
 
-#### buffer
-
-Type: `Buffer`
-
-Buffer to optimize.
-
 ## License
 
-MIT � [imagemin](https://github.com/imagemin)<br/>
-Apache License 2.0 � [Efficient-Compression-Tool](https://github.com/fhanau/Efficient-Compression-Tool)
+MIT © [imagemin](https://github.com/imagemin)<br/>
+Apache License 2.0 © [Efficient-Compression-Tool](https://github.com/fhanau/Efficient-Compression-Tool)
