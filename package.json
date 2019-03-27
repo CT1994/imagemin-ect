@@ -12,8 +12,14 @@
   },
   "keywords": [
     "Efficient-Compression-Tool",
-    "compression",
-    "imagemin"
+    "compress",
+    "image",
+		"imageminplugin",
+		"img",
+		"minify",
+		"optimize",
+    "png",
+    "jpg"
   ],
   "author": "Constantinos Tsiakouris",
   "license": "ISC",
