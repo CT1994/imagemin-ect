@@ -1,3 +1,5 @@
+![Node.js Package](https://github.com/CT1994/imagemin-ect/workflows/Node.js%20Package/badge.svg)
+
 # imagemin-ect
 
 > Efficient-Compression-Tool <b>[imagemin](https://github.com/imagemin/imagemin)</b> plugin<br/>
